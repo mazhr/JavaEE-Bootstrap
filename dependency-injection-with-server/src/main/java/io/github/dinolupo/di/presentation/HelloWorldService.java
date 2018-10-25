@@ -27,7 +27,7 @@ public class HelloWorldService {
 
     @PostConstruct
     public void onInit() {
-        System.out.println("Starting... EJB HelloWorldService");
+        System.out.println("Starting... EJB HelloWorldService!!");
     }
 
     public String serve() {
